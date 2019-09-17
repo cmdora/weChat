@@ -2,5 +2,12 @@
   "pages": [
     "pages/classic/classic"
   ],
-  "sitemapLocation": "sitemap77.json"
+  "window": {
+    "navigationBarBackgroundColor": "#ffff00",
+    "navigationBarTitleText": "旧岛 —— 白驹", 
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "default",
+    "backgroundColor": "#D80000",
+    "enablePullDownRefresh": false
+  }
 }

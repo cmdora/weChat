@@ -1,1 +1,24 @@
 /* pages/classic/classic.wxss */
+
+.chunk {
+  width: 100px;
+  height: 100px;
+}
+
+/* flex flexible box 弹性盒子 */
+/* flex container   flex item */
+/* 如果把块状元素放在一个弹性盒子里面，那么块状元素的特性就会被消除 */
+
+.container {
+  display: flex;
+}
+
+.color1 {
+  background-color: red;
+}
+.color2 {
+  background: blue;
+}
+.color3 {
+  background: aqua;
+}
