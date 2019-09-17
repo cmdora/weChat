@@ -5,3 +5,11 @@
   - 主要为 （云）支付 + 分享
   - 以上相关学习笔记
 
+# weChat 《==》 vue
+  - vue-wechat
+  - vue-wechat-note
+  - vue-wechat-test
+
+# weChat 《==》 组件化
+  - island
+
