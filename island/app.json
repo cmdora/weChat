@@ -3,11 +3,12 @@
     "pages/classic/classic"
   ],
   "window": {
-    "navigationBarBackgroundColor": "#ffff00",
-    "navigationBarTitleText": "旧岛 —— 白驹", 
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "旧岛 —— 白驹",
     "navigationBarTextStyle": "black",
     "navigationStyle": "default",
     "backgroundColor": "#D80000",
     "enablePullDownRefresh": false
-  }
+  },
+  "sitemapLocation": "sitemap81.json"
 }

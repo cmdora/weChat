@@ -1,0 +1,39 @@
+/* pages/classic/classic.wxss */
+
+.chunk {
+  width: 150px;
+  height: 100px;
+}
+
+/* flex flexible box 弹性盒子 */
+/* flex container   flex item */
+/* 如果把块状元素放在一个弹性盒子里面，那么块状元素的特性就会被消除 */
+
+.container {
+  /* flex-direction: row column row-reverse column-reverse */
+  /* view 100% height 自适应 */
+  /* 轴：主轴 | 交叉轴 */
+  /* justify-content：主轴的排布和对齐方式 */
+  /* align-items：交叉轴的排布和对齐方式 */
+
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap-reverse;
+  height: 200px;
+  background: #999;
+}
+
+.color1 {
+  background-color: red;
+  font-size: 26px;
+}
+.color2 {
+  background: blue;
+  font-size: 20px;
+}
+.color3 {
+  background: aqua;
+  font-size: 14px;
+}
